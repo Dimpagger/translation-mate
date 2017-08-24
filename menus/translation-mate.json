@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Fetch code",
+        "label": "Translate",
         "command": "translation-mate:fetch"
       }
     ]
@@ -15,7 +15,7 @@
           "label": "translation-mate",
           "submenu": [
             {
-              "label": "Fetch code",
+              "label": "Translate",
               "command": "translation-mate:fetch"
             }
           ]
